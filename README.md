@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @scottashipp
 - 👀 I’m interested in software engineering, Java, web services, mountain biking, and hiking/backpacking.
-- 🌱 I’m currently learning MarkoJs and more about OpenApi 3.1.
 - 📫 How to reach me: email scott dot shipp at engineer dot com
 
 <!---
